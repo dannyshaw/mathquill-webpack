@@ -4,7 +4,7 @@
 ## usage
 - First install
 ```
-$ npm install https://github.com/luxp/mathquill-webpack.git
+$ npm install https://github.com/dannyshaw/mathquill-webpack.git
 ```
 
 - Then import Mathquill into your project
